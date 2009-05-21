@@ -1,2 +1,2 @@
-<Context path="/sample" docBase="sample" debug="5" reloadable="true" crossContext="true">
+<Context path="/sample.model" docBase="sample.model" debug="5" reloadable="true" crossContext="true">
 </Context>

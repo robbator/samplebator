@@ -1,1 +1,1 @@
-<% response.sendRedirect("pages/homePage.faces"); %> 
+<% response.sendRedirect("pages/home/loginPage.faces"); %> 

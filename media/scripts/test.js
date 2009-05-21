@@ -1,3 +1,3 @@
-function ble() {
-	document.write('ble');
+function clear() {
+	
 }
