@@ -53,20 +53,7 @@
 	NSString * tempoString3 = [array objectAtIndex:6];
 	NSString * tempoString4 = [array objectAtIndex:7];
 	
-	if (!tempoString1 || [tempoString1 isEqual:@""]) {
-		tempoString1 = tempoString2;
-		tempoString2 = @"";
-	}
-	
-	if (!tempoString2 || [tempoString2 isEqual:@""]) {
-		tempoString2 = [NSString stringWithFormat:@"%@ %@", tempoString3, tempoString4];
-		tempoString3 = @"";
-		tempoString4 = @"";
-	}
-	
-	labelAddress1.text = [NSString stringWithFormat:@"%@", tempoString1] ;
-	labelAddress1b.text = [NSString stringWithFormat:@"%@", tempoString2] ;
-	labelAddress2.text = [NSString stringWithFormat:@"%@ %@", tempoString3, tempoString4] ;
+	labelAddress1.text = [NSString stringWithFormat:@"%@, %@, %@, %@", tempoString1, tempoString2, tempoString4, tempoString3] ;
 	
 	//labelAddress1.text  = [array objectAtIndex:4 ] ;
 	//labelAddress2.text  = [array objectAtIndex:5 ] ;

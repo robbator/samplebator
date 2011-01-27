@@ -1,7 +1,7 @@
 TPushViewControllerAnimated
 v7
 r0
-t317841299.069815
+t317847928.977541
 cCheck dependencies
 cProcessInfoPlistFile "/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/Info.plist" Info.plist
 cCompileXIB "/Users/User/Desktop/NHS V1.07 WORKING/MainWindow.xib"
@@ -3222,18 +3222,18 @@ s641
 i<UIKit/UIKit.h>
 
 N/Users/User/Desktop/NHS V1.07 WORKING/GPMapDetailsView.m
-c000000004D065F6F000000000000129F
-t1292263279
-s4767
+c000000004D41C0FF000000000000110D
+t1296154879
+s4365
 i"GPMapDetailsView.h"
 i"PushViewControllerAnimatedAppDelegate.h"
 i"browserNHSViewGPAppointment.h"
 i<AVFoundation/AVFoundation.h>
 
 N/Users/User/Desktop/NHS V1.07 WORKING/GPMapDetailsView.xib
-c000000004D2E093600000000000093FE
-t1294862646
-s37886
+c000000004D41C08A000000000000881A
+t1296154762
+s34842
 
 N/Users/User/Desktop/NHS V1.07 WORKING/GeoLocation.h
 c000000004D037E190000000000000298
@@ -3363,17 +3363,17 @@ s689
 i<UIKit/UIKit.h>
 
 N/Users/User/Desktop/NHS V1.07 WORKING/PharmacyMAPDetailsView.m
-c000000004D065C8A0000000000000E8E
-t1292262538
-s3726
+c000000004D41C0FF0000000000000D6E
+t1296154879
+s3438
 i"PharmacyMAPDetailsView.h"
 i"PushViewControllerAnimatedAppDelegate.h"
 i<AVFoundation/AVFoundation.h>
 
 N/Users/User/Desktop/NHS V1.07 WORKING/PharmacyMAPDetailsView.xib
-c000000004D2E0B840000000000009427
-t1294863236
-s37927
+c000000004D41C0F800000000000088A5
+t1296154872
+s34981
 
 N/Users/User/Desktop/NHS V1.07 WORKING/PlacemarkViewController.h
 c000000004BB39F780000000000000163
@@ -3411,9 +3411,9 @@ i<Foundation/Foundation.h>
 i<UIKit/UIKit.h>
 
 N/Users/User/Desktop/NHS V1.07 WORKING/SexHealthDetailsView.xib
-c000000004D2DFB2900000000000093F5
-t1294859049
-s37877
+c000000004D41C05B0000000000008DEC
+t1296154715
+s36332
 
 N/Users/User/Desktop/NHS V1.07 WORKING/SexHealthMap.xib
 c000000004D1235E30000000000005D6E
@@ -3449,9 +3449,9 @@ s803
 i<UIKit/UIKit.h>
 
 N/Users/User/Desktop/NHS V1.07 WORKING/SexHealthMapDetailsView.m
-c000000004D090CD90000000000001170
-t1292438745
-s4464
+c000000004D41C0FF0000000000000F9C
+t1296154879
+s3996
 i"SexHealthMapDetailsView.h"
 i"PushViewControllerAnimatedAppDelegate.h"
 i<AVFoundation/AVFoundation.h>
@@ -3794,11 +3794,11 @@ t1269541718
 s25411
 
 N/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app
-t1296148499
+t1296154898
 s4182
 
 N/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app.dSYM
-t1296142491
+t1296154898
 s102
 
 N/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/24_before.png
@@ -3858,8 +3858,8 @@ t1293039226
 s2540
 
 N/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/GPMapDetailsView.nib
-t1294862651
-s6529
+t1296154881
+s6001
 
 N/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/Info.plist
 t1292439963
@@ -3882,20 +3882,20 @@ t1293039228
 s2389
 
 N/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/PharmacyMAPDetailsView.nib
-t1294863237
-s6294
+t1296154882
+s5769
 
 N/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/PkgInfo
 t1292439963
 s8
 
 N/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/PushViewControllerAnimated
-t1296142490
-s499004
+t1296154898
+s494908
 
 N/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/SexHealthDetailsView.nib
-t1294859057
-s6296
+t1296154887
+s6037
 
 N/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/SexHealthMap.nib
 t1293039231
@@ -4010,8 +4010,8 @@ t1293039229
 s2389
 
 N/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/dentalMAPDetailsView.nib
-t1294862963
-s6328
+t1296154883
+s5805
 
 N/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/dentist menu.png
 t1292354379
@@ -4150,8 +4150,8 @@ t1293039230
 s2389
 
 N/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/hospitalMAPDetail.nib
-t1294862140
-s6068
+t1296154050
+s5806
 
 N/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/how_to_use_btn.png
 t1295894695
@@ -4246,16 +4246,16 @@ t1292354376
 s42
 
 N/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/viewEmergenciesMapDetailsView.nib
-t1294860521
-s6065
+t1296154884
+s5805
 
 N/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/viewTest.nib
 t1292439982
 s3047
 
 N/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/viewWalkinMapDetails.nib
-t1294861506
-s6333
+t1296154885
+s5804
 
 N/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/wakefield_coord.plist
 t1292354405
@@ -4314,8 +4314,8 @@ t1295969977
 s84180
 
 N/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/GPMapDetailsView.o
-t1294418502
-s53356
+t1296154889
+s52564
 
 N/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/GeoLocation.o
 t1294418513
@@ -4354,8 +4354,8 @@ t1295887929
 s82492
 
 N/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/PharmacyMAPDetailsView.o
-t1294418505
-s53308
+t1296154891
+s52636
 
 N/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/PlacemarkViewController.o
 t1294418503
@@ -4395,8 +4395,8 @@ t1295887930
 s83296
 
 N/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/SexHealthMapDetailsView.o
-t1294418511
-s60920
+t1296154898
+s60004
 
 N/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/UINavigationBar+CustomImage.o
 t1294418497
@@ -4459,8 +4459,8 @@ t1295888246
 s83020
 
 N/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/dentalMAPDetailsView.o
-t1294418506
-s53468
+t1296154893
+s52676
 
 N/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/donorViewController.o
 t1294418501
@@ -4507,8 +4507,8 @@ t1295969980
 s83352
 
 N/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/hospitalMAPDetail.o
-t1294418508
-s53608
+t1296154897
+s52848
 
 N/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/main.o
 t1294418485
@@ -4523,16 +4523,16 @@ t1294418491
 s48264
 
 N/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/viewEmergenciesMapDetailsView.o
-t1294418507
-s53360
+t1296154895
+s52568
 
 N/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/viewTest.o
 t1294418490
 s34720
 
 N/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/viewWalkinMapDetails.o
-t1294418507
-s54456
+t1296154896
+s53660
 
 N/Users/User/Desktop/NHS V1.07 WORKING/burns.mp3
 c000000004C9370D200000000000811ED
@@ -4637,17 +4637,17 @@ s522
 i<UIKit/UIKit.h>
 
 N/Users/User/Desktop/NHS V1.07 WORKING/dentalMAPDetailsView.m
-c000000004D0777800000000000000D54
-t1292334976
-s3412
+c000000004D41C0FF0000000000000BC1
+t1296154879
+s3009
 i"dentalMAPDetailsView.h"
 i"PushViewControllerAnimatedAppDelegate.h"
 i<AVFoundation/AVFoundation.h>
 
 N/Users/User/Desktop/NHS V1.07 WORKING/dentalMAPDetailsView.xib
-c000000004D2E0A6500000000000093BD
-t1294862949
-s37821
+c000000004D41C0C9000000000000883D
+t1296154825
+s34877
 
 N/Users/User/Desktop/NHS V1.07 WORKING/dentistLeo.plist
 c000000004BB0E0C00000000000008C19
@@ -4939,17 +4939,17 @@ i<UIKit/UIKit.h>
 i"PushViewControllerAnimatedAppDelegate.h"
 
 N/Users/User/Desktop/NHS V1.07 WORKING/hospitalMAPDetail.m
-c000000004D065F6F0000000000000DB4
-t1292263279
-s3508
+c000000004D41BF880000000000000E02
+t1296154504
+s3586
 i"hospitalMAPDetail.h"
 i"PushViewControllerAnimatedAppDelegate.h"
 i<AVFoundation/AVFoundation.h>
 
 N/Users/User/Desktop/NHS V1.07 WORKING/hospitalMAPDetail.xib
-c000000004D2E07360000000000008DE7
-t1294862134
-s36327
+c000000004D41BDBE000000000000883D
+t1296154046
+s34877
 
 N/Users/User/Desktop/NHS V1.07 WORKING/how_to_use_btn.png
 c000000004D088A90000000000000130A
@@ -5149,17 +5149,17 @@ s704
 i<UIKit/UIKit.h>
 
 N/Users/User/Desktop/NHS V1.07 WORKING/viewEmergenciesMapDetailsView.m
-c000000004D065F6F0000000000000FFC
-t1292263279
-s4092
+c000000004D41C0FF0000000000000E6A
+t1296154879
+s3690
 i"viewEmergenciesMapDetailsView.h"
 i"PushViewControllerAnimatedAppDelegate.h"
 i<AVFoundation/AVFoundation.h>
 
 N/Users/User/Desktop/NHS V1.07 WORKING/viewEmergenciesMapDetailsView.xib
-c000000004D2E00E40000000000008DFB
-t1294860516
-s36347
+c000000004D41C0230000000000008851
+t1296154659
+s34897
 
 N/Users/User/Desktop/NHS V1.07 WORKING/viewTest.h
 c000000004B828EE70000000000000109
@@ -5185,17 +5185,17 @@ s606
 i<UIKit/UIKit.h>
 
 N/Users/User/Desktop/NHS V1.07 WORKING/viewWalkinMapDetails.m
-c000000004D065F700000000000000E8A
-t1292263280
-s3722
+c000000004D41BFC40000000000000CF8
+t1296154564
+s3320
 i"viewWalkinMapDetails.h"
 i"PushViewControllerAnimatedAppDelegate.h"
 i<AVFoundation/AVFoundation.h>
 
 N/Users/User/Desktop/NHS V1.07 WORKING/viewWalkinMapDetails.xib
-c000000004D2E04AE00000000000094FD
-t1294861486
-s38141
+c000000004D41BFD7000000000000891C
+t1296154583
+s35100
 
 N/Users/User/Desktop/NHS V1.07 WORKING/wakefield_coord.plist
 c000000004D0145D300000000000008B0
@@ -10869,7 +10869,7 @@ lSLF07#2@68"Analyze /Users/User/Desktop/NHS V1.06 WORKING/viewWalkinMapDetails.m
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies317841298#317841298#0(163"[WARN]Warning: Multiple build commands for output file /Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/Alarm1.mp31(22@156"Warning: Multiple build commands for output file /Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/Alarm1.mp3317841298#18446744073709551615#0#0(1@0"0(0#1#0"7957653246668527616#0"0#
+lSLF07#2@18"Check dependencies317847928#317847928#0(163"[WARN]Warning: Multiple build commands for output file /Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/Alarm1.mp31(22@156"Warning: Multiple build commands for output file /Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/Alarm1.mp3317847928#18446744073709551615#0#0(1@0"0(0#1#0"8621138688#0"0#
 
 CCompileC build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/ALARMView.o "/Users/User/Desktop/NHS V1.06 WORKING/ALARMView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s314132836.266141
@@ -11219,8 +11219,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@64"Compile /Users/User/Desktop/NHS V1.06 WORKING/GPMapDetailsView.m314132844#314132845#0(0"0(0#0#56"/Users/User/Desktop/NHS V1.06 WORKING/GPMapDetailsView.m8603375808#2329"    cd "/Users/User/Desktop/NHS V1.06 WORKING"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-generated-files.hmap" "-I/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-own-target-headers.hmap" "-I/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-all-target-headers.hmap" -iquote "/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-project-headers.hmap" "-F/Users/User/Desktop/NHS V1.06 WORKING/build/Debug-iphonesimulator" "-I/Users/User/Desktop/NHS V1.06 WORKING/build/Debug-iphonesimulator/include" "-I/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/DerivedSources/i386" "-I/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/DerivedSources" -include /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushViewControllerAnimated_Prefix-dxygnhnarhnfplcrrqozrlrotlac/PushViewControllerAnimated_Prefix.pch -c "/Users/User/Desktop/NHS V1.06 WORKING/GPMapDetailsView.m" -o "/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/GPMapDetailsView.o"0#
 
 CCompileC build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/GPMapDetailsView.o "/Users/User/Desktop/NHS V1.07 WORKING/GPMapDetailsView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s316111301.884751
-e316111302.365016
+s317847687.182026
+e317847689.194814
 r1
 xCompileC
 xbuild/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/GPMapDetailsView.o
@@ -11229,7 +11229,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@64"Compile /Users/User/Desktop/NHS V1.07 WORKING/GPMapDetailsView.m316111301#316111302#0(0"0(0#0#56"/Users/User/Desktop/NHS V1.07 WORKING/GPMapDetailsView.m8613172192#2329"    cd "/Users/User/Desktop/NHS V1.07 WORKING"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-generated-files.hmap" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-own-target-headers.hmap" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-all-target-headers.hmap" -iquote "/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-project-headers.hmap" "-F/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/include" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/DerivedSources/i386" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/DerivedSources" -include /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushViewControllerAnimated_Prefix-cjitatbkxdfjnkbivfqmdocozpmm/PushViewControllerAnimated_Prefix.pch -c "/Users/User/Desktop/NHS V1.07 WORKING/GPMapDetailsView.m" -o "/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/GPMapDetailsView.o"0#
+lSLF07#2@64"Compile /Users/User/Desktop/NHS V1.07 WORKING/GPMapDetailsView.m317847687#317847689#0(0"0(0#0#56"/Users/User/Desktop/NHS V1.07 WORKING/GPMapDetailsView.m8619790464#2329"    cd "/Users/User/Desktop/NHS V1.07 WORKING"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-generated-files.hmap" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-own-target-headers.hmap" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-all-target-headers.hmap" -iquote "/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-project-headers.hmap" "-F/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/include" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/DerivedSources/i386" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/DerivedSources" -include /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushViewControllerAnimated_Prefix-cjitatbkxdfjnkbivfqmdocozpmm/PushViewControllerAnimated_Prefix.pch -c "/Users/User/Desktop/NHS V1.07 WORKING/GPMapDetailsView.m" -o "/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/GPMapDetailsView.o"0#
 
 CCompileC build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/GPMapDetailsView.o "/Users/andrewfarmer/Desktop/NHS BRISTOL /NHS V1.06 WORKING/GPMapDetailsView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s303818821.285103
@@ -11671,8 +11671,8 @@ o/Users/User/Desktop/NHS V1.06 WORKING/PharmacyMAPDetailsView.m:117: warning: me
 lSLF07#2@70"Compile /Users/User/Desktop/NHS V1.06 WORKING/PharmacyMAPDetailsView.m314132848#314132848#0(271"/Users/User/Desktop/NHS V1.06 WORKING/PharmacyMAPDetailsView.m:117: warning: incomplete implementation of class 'PharmacyMAPDetailsView'/Users/User/Desktop/NHS V1.06 WORKING/PharmacyMAPDetailsView.m:117: warning: method definition for '-makeAppointmentButton' not found2(22@59"Incomplete implementation of class 'PharmacyMAPDetailsView'314132848#0#137#0(6@62"/Users/User/Desktop/NHS V1.06 WORKING/PharmacyMAPDetailsView.m313955338#117#0#117#0#38"incomplete implementation of class '*'0(22@56"Method definition for '-makeAppointmentButton' not found314132848#137#134#0(6@62"/Users/User/Desktop/NHS V1.06 WORKING/PharmacyMAPDetailsView.m313955338#117#0#117#0#35"method definition for '*' not found0(0#0#62"/Users/User/Desktop/NHS V1.06 WORKING/PharmacyMAPDetailsView.m8607102976#2341"    cd "/Users/User/Desktop/NHS V1.06 WORKING"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-generated-files.hmap" "-I/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-own-target-headers.hmap" "-I/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-all-target-headers.hmap" -iquote "/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-project-headers.hmap" "-F/Users/User/Desktop/NHS V1.06 WORKING/build/Debug-iphonesimulator" "-I/Users/User/Desktop/NHS V1.06 WORKING/build/Debug-iphonesimulator/include" "-I/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/DerivedSources/i386" "-I/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/DerivedSources" -include /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushViewControllerAnimated_Prefix-dxygnhnarhnfplcrrqozrlrotlac/PushViewControllerAnimated_Prefix.pch -c "/Users/User/Desktop/NHS V1.06 WORKING/PharmacyMAPDetailsView.m" -o "/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/PharmacyMAPDetailsView.o"0#
 
 CCompileC build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/PharmacyMAPDetailsView.o "/Users/User/Desktop/NHS V1.07 WORKING/PharmacyMAPDetailsView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s316111305.178750
-e316111305.741827
+s317847689.196510
+e317847691.240463
 r1
 xCompileC
 xbuild/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/PharmacyMAPDetailsView.o
@@ -11681,9 +11681,9 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-o/Users/User/Desktop/NHS V1.07 WORKING/PharmacyMAPDetailsView.m:117: warning: incomplete implementation of class 'PharmacyMAPDetailsView'
-o/Users/User/Desktop/NHS V1.07 WORKING/PharmacyMAPDetailsView.m:117: warning: method definition for '-makeAppointmentButton' not found
-lSLF07#2@70"Compile /Users/User/Desktop/NHS V1.07 WORKING/PharmacyMAPDetailsView.m316111305#316111305#0(271"/Users/User/Desktop/NHS V1.07 WORKING/PharmacyMAPDetailsView.m:117: warning: incomplete implementation of class 'PharmacyMAPDetailsView'/Users/User/Desktop/NHS V1.07 WORKING/PharmacyMAPDetailsView.m:117: warning: method definition for '-makeAppointmentButton' not found2(22@59"Incomplete implementation of class 'PharmacyMAPDetailsView'316111305#0#137#0(6@62"/Users/User/Desktop/NHS V1.07 WORKING/PharmacyMAPDetailsView.m313955338#117#0#117#0#38"incomplete implementation of class '*'0(22@56"Method definition for '-makeAppointmentButton' not found316111305#137#134#0(6@62"/Users/User/Desktop/NHS V1.07 WORKING/PharmacyMAPDetailsView.m313955338#117#0#117#0#35"method definition for '*' not found0(0#0#62"/Users/User/Desktop/NHS V1.07 WORKING/PharmacyMAPDetailsView.m8599632288#2341"    cd "/Users/User/Desktop/NHS V1.07 WORKING"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-generated-files.hmap" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-own-target-headers.hmap" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-all-target-headers.hmap" -iquote "/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-project-headers.hmap" "-F/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/include" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/DerivedSources/i386" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/DerivedSources" -include /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushViewControllerAnimated_Prefix-cjitatbkxdfjnkbivfqmdocozpmm/PushViewControllerAnimated_Prefix.pch -c "/Users/User/Desktop/NHS V1.07 WORKING/PharmacyMAPDetailsView.m" -o "/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/PharmacyMAPDetailsView.o"0#
+o/Users/User/Desktop/NHS V1.07 WORKING/PharmacyMAPDetailsView.m:111: warning: incomplete implementation of class 'PharmacyMAPDetailsView'
+o/Users/User/Desktop/NHS V1.07 WORKING/PharmacyMAPDetailsView.m:111: warning: method definition for '-makeAppointmentButton' not found
+lSLF07#2@70"Compile /Users/User/Desktop/NHS V1.07 WORKING/PharmacyMAPDetailsView.m317847689#317847691#0(271"/Users/User/Desktop/NHS V1.07 WORKING/PharmacyMAPDetailsView.m:111: warning: incomplete implementation of class 'PharmacyMAPDetailsView'/Users/User/Desktop/NHS V1.07 WORKING/PharmacyMAPDetailsView.m:111: warning: method definition for '-makeAppointmentButton' not found2(22@59"Incomplete implementation of class 'PharmacyMAPDetailsView'317847691#0#137#0(6@62"/Users/User/Desktop/NHS V1.07 WORKING/PharmacyMAPDetailsView.m317847679#111#0#111#0#38"incomplete implementation of class '*'0(22@56"Method definition for '-makeAppointmentButton' not found317847691#137#134#0(6@62"/Users/User/Desktop/NHS V1.07 WORKING/PharmacyMAPDetailsView.m317847679#111#0#111#0#35"method definition for '*' not found0(0#0#62"/Users/User/Desktop/NHS V1.07 WORKING/PharmacyMAPDetailsView.m8620909504#2341"    cd "/Users/User/Desktop/NHS V1.07 WORKING"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-generated-files.hmap" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-own-target-headers.hmap" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-all-target-headers.hmap" -iquote "/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-project-headers.hmap" "-F/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/include" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/DerivedSources/i386" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/DerivedSources" -include /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushViewControllerAnimated_Prefix-cjitatbkxdfjnkbivfqmdocozpmm/PushViewControllerAnimated_Prefix.pch -c "/Users/User/Desktop/NHS V1.07 WORKING/PharmacyMAPDetailsView.m" -o "/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/PharmacyMAPDetailsView.o"0#
 
 CCompileC build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/PharmacyMAPDetailsView.o "/Users/andrewfarmer/Desktop/NHS BRISTOL /NHS V1.06 WORKING/PharmacyMAPDetailsView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s303818822.152781
@@ -12141,8 +12141,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@71"Compile /Users/User/Desktop/NHS V1.06 WORKING/SexHealthMapDetailsView.m314132853#314132854#0(0"0(0#0#63"/Users/User/Desktop/NHS V1.06 WORKING/SexHealthMapDetailsView.m8620834720#2343"    cd "/Users/User/Desktop/NHS V1.06 WORKING"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-generated-files.hmap" "-I/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-own-target-headers.hmap" "-I/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-all-target-headers.hmap" -iquote "/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-project-headers.hmap" "-F/Users/User/Desktop/NHS V1.06 WORKING/build/Debug-iphonesimulator" "-I/Users/User/Desktop/NHS V1.06 WORKING/build/Debug-iphonesimulator/include" "-I/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/DerivedSources/i386" "-I/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/DerivedSources" -include /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushViewControllerAnimated_Prefix-dxygnhnarhnfplcrrqozrlrotlac/PushViewControllerAnimated_Prefix.pch -c "/Users/User/Desktop/NHS V1.06 WORKING/SexHealthMapDetailsView.m" -o "/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/SexHealthMapDetailsView.o"0#
 
 CCompileC build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/SexHealthMapDetailsView.o "/Users/User/Desktop/NHS V1.07 WORKING/SexHealthMapDetailsView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s316111310.791164
-e316111311.526682
+s317847697.558108
+e317847698.091608
 r1
 xCompileC
 xbuild/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/SexHealthMapDetailsView.o
@@ -12151,7 +12151,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@71"Compile /Users/User/Desktop/NHS V1.07 WORKING/SexHealthMapDetailsView.m316111310#316111311#0(0"0(0#0#63"/Users/User/Desktop/NHS V1.07 WORKING/SexHealthMapDetailsView.m8612875008#2343"    cd "/Users/User/Desktop/NHS V1.07 WORKING"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-generated-files.hmap" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-own-target-headers.hmap" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-all-target-headers.hmap" -iquote "/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-project-headers.hmap" "-F/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/include" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/DerivedSources/i386" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/DerivedSources" -include /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushViewControllerAnimated_Prefix-cjitatbkxdfjnkbivfqmdocozpmm/PushViewControllerAnimated_Prefix.pch -c "/Users/User/Desktop/NHS V1.07 WORKING/SexHealthMapDetailsView.m" -o "/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/SexHealthMapDetailsView.o"0#
+lSLF07#2@71"Compile /Users/User/Desktop/NHS V1.07 WORKING/SexHealthMapDetailsView.m317847697#317847698#0(0"0(0#0#63"/Users/User/Desktop/NHS V1.07 WORKING/SexHealthMapDetailsView.m8602751488#2343"    cd "/Users/User/Desktop/NHS V1.07 WORKING"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-generated-files.hmap" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-own-target-headers.hmap" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-all-target-headers.hmap" -iquote "/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-project-headers.hmap" "-F/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/include" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/DerivedSources/i386" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/DerivedSources" -include /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushViewControllerAnimated_Prefix-cjitatbkxdfjnkbivfqmdocozpmm/PushViewControllerAnimated_Prefix.pch -c "/Users/User/Desktop/NHS V1.07 WORKING/SexHealthMapDetailsView.m" -o "/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/SexHealthMapDetailsView.o"0#
 
 CCompileC build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/SexHealthMapDetailsView.o "/Users/andrewfarmer/Desktop/NHS BRISTOL /NHS V1.06 WORKING/SexHealthMapDetailsView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s303904832.010058
@@ -13110,8 +13110,8 @@ o/Users/User/Desktop/NHS V1.06 WORKING/dentalMAPDetailsView.m:113: warning: meth
 lSLF07#2@68"Compile /Users/User/Desktop/NHS V1.06 WORKING/dentalMAPDetailsView.m314132849#314132850#0(265"/Users/User/Desktop/NHS V1.06 WORKING/dentalMAPDetailsView.m:113: warning: incomplete implementation of class 'dentalMAPDetailsView'/Users/User/Desktop/NHS V1.06 WORKING/dentalMAPDetailsView.m:113: warning: method definition for '-makeAppointmentButton' not found2(22@57"Incomplete implementation of class 'dentalMAPDetailsView'314132849#0#133#0(6@60"/Users/User/Desktop/NHS V1.06 WORKING/dentalMAPDetailsView.m314027776#113#0#113#0#38"incomplete implementation of class '*'0(22@56"Method definition for '-makeAppointmentButton' not found314132849#133#132#0(6@60"/Users/User/Desktop/NHS V1.06 WORKING/dentalMAPDetailsView.m314027776#113#0#113#0#35"method definition for '*' not found0(0#0#60"/Users/User/Desktop/NHS V1.06 WORKING/dentalMAPDetailsView.m8598810112#2337"    cd "/Users/User/Desktop/NHS V1.06 WORKING"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-generated-files.hmap" "-I/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-own-target-headers.hmap" "-I/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-all-target-headers.hmap" -iquote "/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-project-headers.hmap" "-F/Users/User/Desktop/NHS V1.06 WORKING/build/Debug-iphonesimulator" "-I/Users/User/Desktop/NHS V1.06 WORKING/build/Debug-iphonesimulator/include" "-I/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/DerivedSources/i386" "-I/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/DerivedSources" -include /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushViewControllerAnimated_Prefix-dxygnhnarhnfplcrrqozrlrotlac/PushViewControllerAnimated_Prefix.pch -c "/Users/User/Desktop/NHS V1.06 WORKING/dentalMAPDetailsView.m" -o "/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/dentalMAPDetailsView.o"0#
 
 CCompileC build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/dentalMAPDetailsView.o "/Users/User/Desktop/NHS V1.07 WORKING/dentalMAPDetailsView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s316111306.234209
-e316111306.863444
+s317847691.241045
+e317847693.173378
 r1
 xCompileC
 xbuild/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/dentalMAPDetailsView.o
@@ -13120,9 +13120,9 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-o/Users/User/Desktop/NHS V1.07 WORKING/dentalMAPDetailsView.m:113: warning: incomplete implementation of class 'dentalMAPDetailsView'
-o/Users/User/Desktop/NHS V1.07 WORKING/dentalMAPDetailsView.m:113: warning: method definition for '-makeAppointmentButton' not found
-lSLF07#2@68"Compile /Users/User/Desktop/NHS V1.07 WORKING/dentalMAPDetailsView.m316111306#316111306#0(265"/Users/User/Desktop/NHS V1.07 WORKING/dentalMAPDetailsView.m:113: warning: incomplete implementation of class 'dentalMAPDetailsView'/Users/User/Desktop/NHS V1.07 WORKING/dentalMAPDetailsView.m:113: warning: method definition for '-makeAppointmentButton' not found2(22@57"Incomplete implementation of class 'dentalMAPDetailsView'316111306#0#133#0(6@60"/Users/User/Desktop/NHS V1.07 WORKING/dentalMAPDetailsView.m314027776#113#0#113#0#38"incomplete implementation of class '*'0(22@56"Method definition for '-makeAppointmentButton' not found316111306#133#132#0(6@60"/Users/User/Desktop/NHS V1.07 WORKING/dentalMAPDetailsView.m314027776#113#0#113#0#35"method definition for '*' not found0(0#0#60"/Users/User/Desktop/NHS V1.07 WORKING/dentalMAPDetailsView.m8612714176#2337"    cd "/Users/User/Desktop/NHS V1.07 WORKING"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-generated-files.hmap" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-own-target-headers.hmap" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-all-target-headers.hmap" -iquote "/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-project-headers.hmap" "-F/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/include" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/DerivedSources/i386" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/DerivedSources" -include /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushViewControllerAnimated_Prefix-cjitatbkxdfjnkbivfqmdocozpmm/PushViewControllerAnimated_Prefix.pch -c "/Users/User/Desktop/NHS V1.07 WORKING/dentalMAPDetailsView.m" -o "/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/dentalMAPDetailsView.o"0#
+o/Users/User/Desktop/NHS V1.07 WORKING/dentalMAPDetailsView.m:99: warning: incomplete implementation of class 'dentalMAPDetailsView'
+o/Users/User/Desktop/NHS V1.07 WORKING/dentalMAPDetailsView.m:99: warning: method definition for '-makeAppointmentButton' not found
+lSLF07#2@68"Compile /Users/User/Desktop/NHS V1.07 WORKING/dentalMAPDetailsView.m317847691#317847693#0(263"/Users/User/Desktop/NHS V1.07 WORKING/dentalMAPDetailsView.m:99: warning: incomplete implementation of class 'dentalMAPDetailsView'/Users/User/Desktop/NHS V1.07 WORKING/dentalMAPDetailsView.m:99: warning: method definition for '-makeAppointmentButton' not found2(22@57"Incomplete implementation of class 'dentalMAPDetailsView'317847693#0#132#0(6@60"/Users/User/Desktop/NHS V1.07 WORKING/dentalMAPDetailsView.m317847679#99#0#99#0#38"incomplete implementation of class '*'0(22@56"Method definition for '-makeAppointmentButton' not found317847693#132#131#0(6@60"/Users/User/Desktop/NHS V1.07 WORKING/dentalMAPDetailsView.m317847679#99#0#99#0#35"method definition for '*' not found0(0#0#60"/Users/User/Desktop/NHS V1.07 WORKING/dentalMAPDetailsView.m8621593184#2337"    cd "/Users/User/Desktop/NHS V1.07 WORKING"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-generated-files.hmap" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-own-target-headers.hmap" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-all-target-headers.hmap" -iquote "/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-project-headers.hmap" "-F/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/include" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/DerivedSources/i386" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/DerivedSources" -include /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushViewControllerAnimated_Prefix-cjitatbkxdfjnkbivfqmdocozpmm/PushViewControllerAnimated_Prefix.pch -c "/Users/User/Desktop/NHS V1.07 WORKING/dentalMAPDetailsView.m" -o "/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/dentalMAPDetailsView.o"0#
 
 CCompileC build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/dentalMAPDetailsView.o "/Users/andrewfarmer/Desktop/NHS BRISTOL /NHS V1.06 WORKING/dentalMAPDetailsView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s303818822.437199
@@ -13794,8 +13794,8 @@ o/Users/User/Desktop/NHS V1.06 WORKING/hospitalMAPDetail.m:118: warning: method 
 lSLF07#2@65"Compile /Users/User/Desktop/NHS V1.06 WORKING/hospitalMAPDetail.m314132851#314132852#0(256"/Users/User/Desktop/NHS V1.06 WORKING/hospitalMAPDetail.m:118: warning: incomplete implementation of class 'hospitalMAPDetail'/Users/User/Desktop/NHS V1.06 WORKING/hospitalMAPDetail.m:118: warning: method definition for '-makeAppointmentButton' not found2(22@54"Incomplete implementation of class 'hospitalMAPDetail'314132852#0#127#0(6@57"/Users/User/Desktop/NHS V1.06 WORKING/hospitalMAPDetail.m313956079#118#0#118#0#38"incomplete implementation of class '*'0(22@56"Method definition for '-makeAppointmentButton' not found314132852#127#129#0(6@57"/Users/User/Desktop/NHS V1.06 WORKING/hospitalMAPDetail.m313956079#118#0#118#0#35"method definition for '*' not found0(0#0#57"/Users/User/Desktop/NHS V1.06 WORKING/hospitalMAPDetail.m8620737728#2331"    cd "/Users/User/Desktop/NHS V1.06 WORKING"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-generated-files.hmap" "-I/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-own-target-headers.hmap" "-I/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-all-target-headers.hmap" -iquote "/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-project-headers.hmap" "-F/Users/User/Desktop/NHS V1.06 WORKING/build/Debug-iphonesimulator" "-I/Users/User/Desktop/NHS V1.06 WORKING/build/Debug-iphonesimulator/include" "-I/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/DerivedSources/i386" "-I/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/DerivedSources" -include /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushViewControllerAnimated_Prefix-dxygnhnarhnfplcrrqozrlrotlac/PushViewControllerAnimated_Prefix.pch -c "/Users/User/Desktop/NHS V1.06 WORKING/hospitalMAPDetail.m" -o "/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/hospitalMAPDetail.o"0#
 
 CCompileC build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/hospitalMAPDetail.o "/Users/User/Desktop/NHS V1.07 WORKING/hospitalMAPDetail.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s316111308.436343
-e316111308.988340
+s317847697.031399
+e317847697.557160
 r1
 xCompileC
 xbuild/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/hospitalMAPDetail.o
@@ -13806,7 +13806,7 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 o/Users/User/Desktop/NHS V1.07 WORKING/hospitalMAPDetail.m:118: warning: incomplete implementation of class 'hospitalMAPDetail'
 o/Users/User/Desktop/NHS V1.07 WORKING/hospitalMAPDetail.m:118: warning: method definition for '-makeAppointmentButton' not found
-lSLF07#2@65"Compile /Users/User/Desktop/NHS V1.07 WORKING/hospitalMAPDetail.m316111308#316111308#0(256"/Users/User/Desktop/NHS V1.07 WORKING/hospitalMAPDetail.m:118: warning: incomplete implementation of class 'hospitalMAPDetail'/Users/User/Desktop/NHS V1.07 WORKING/hospitalMAPDetail.m:118: warning: method definition for '-makeAppointmentButton' not found2(22@54"Incomplete implementation of class 'hospitalMAPDetail'316111308#0#127#0(6@57"/Users/User/Desktop/NHS V1.07 WORKING/hospitalMAPDetail.m313956079#118#0#118#0#38"incomplete implementation of class '*'0(22@56"Method definition for '-makeAppointmentButton' not found316111308#127#129#0(6@57"/Users/User/Desktop/NHS V1.07 WORKING/hospitalMAPDetail.m313956079#118#0#118#0#35"method definition for '*' not found0(0#0#57"/Users/User/Desktop/NHS V1.07 WORKING/hospitalMAPDetail.m8612365664#2331"    cd "/Users/User/Desktop/NHS V1.07 WORKING"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-generated-files.hmap" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-own-target-headers.hmap" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-all-target-headers.hmap" -iquote "/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-project-headers.hmap" "-F/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/include" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/DerivedSources/i386" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/DerivedSources" -include /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushViewControllerAnimated_Prefix-cjitatbkxdfjnkbivfqmdocozpmm/PushViewControllerAnimated_Prefix.pch -c "/Users/User/Desktop/NHS V1.07 WORKING/hospitalMAPDetail.m" -o "/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/hospitalMAPDetail.o"0#
+lSLF07#2@65"Compile /Users/User/Desktop/NHS V1.07 WORKING/hospitalMAPDetail.m317847697#317847697#0(256"/Users/User/Desktop/NHS V1.07 WORKING/hospitalMAPDetail.m:118: warning: incomplete implementation of class 'hospitalMAPDetail'/Users/User/Desktop/NHS V1.07 WORKING/hospitalMAPDetail.m:118: warning: method definition for '-makeAppointmentButton' not found2(22@54"Incomplete implementation of class 'hospitalMAPDetail'317847697#0#127#0(6@57"/Users/User/Desktop/NHS V1.07 WORKING/hospitalMAPDetail.m317847304#118#0#118#0#38"incomplete implementation of class '*'0(22@56"Method definition for '-makeAppointmentButton' not found317847697#127#129#0(6@57"/Users/User/Desktop/NHS V1.07 WORKING/hospitalMAPDetail.m317847304#118#0#118#0#35"method definition for '*' not found0(0#0#57"/Users/User/Desktop/NHS V1.07 WORKING/hospitalMAPDetail.m8621209632#2331"    cd "/Users/User/Desktop/NHS V1.07 WORKING"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-generated-files.hmap" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-own-target-headers.hmap" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-all-target-headers.hmap" -iquote "/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-project-headers.hmap" "-F/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/include" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/DerivedSources/i386" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/DerivedSources" -include /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushViewControllerAnimated_Prefix-cjitatbkxdfjnkbivfqmdocozpmm/PushViewControllerAnimated_Prefix.pch -c "/Users/User/Desktop/NHS V1.07 WORKING/hospitalMAPDetail.m" -o "/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/hospitalMAPDetail.o"0#
 
 CCompileC build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/hospitalMAPDetail.o "/Users/andrewfarmer/Desktop/NHS BRISTOL /NHS V1.06 WORKING/hospitalMAPDetail.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s303818822.992902
@@ -14011,8 +14011,8 @@ o/Users/User/Desktop/NHS V1.06 WORKING/viewEmergenciesMapDetailsView.m:127: warn
 lSLF07#2@77"Compile /Users/User/Desktop/NHS V1.06 WORKING/viewEmergenciesMapDetailsView.m314132850#314132850#0(430"/Users/User/Desktop/NHS V1.06 WORKING/viewEmergenciesMapDetailsView.m:127: warning: incomplete implementation of class 'viewEmergenciesMapDetailsView'/Users/User/Desktop/NHS V1.06 WORKING/viewEmergenciesMapDetailsView.m:127: warning: method definition for '-makeAppointmentButton' not found/Users/User/Desktop/NHS V1.06 WORKING/viewEmergenciesMapDetailsView.m:127: warning: method definition for '-dataFilePathDental' not found3(22@66"Incomplete implementation of class 'viewEmergenciesMapDetailsView'314132850#0#151#0(6@69"/Users/User/Desktop/NHS V1.06 WORKING/viewEmergenciesMapDetailsView.m313956079#127#0#127#0#38"incomplete implementation of class '*'0(22@56"Method definition for '-makeAppointmentButton' not found314132850#151#141#0(6@69"/Users/User/Desktop/NHS V1.06 WORKING/viewEmergenciesMapDetailsView.m313956079#127#0#127#0#35"method definition for '*' not found0(22@53"Method definition for '-dataFilePathDental' not found314132850#292#138#0(6@69"/Users/User/Desktop/NHS V1.06 WORKING/viewEmergenciesMapDetailsView.m313956079#127#0#127#0#35"method definition for '*' not found0(0#0#69"/Users/User/Desktop/NHS V1.06 WORKING/viewEmergenciesMapDetailsView.m8624606048#2355"    cd "/Users/User/Desktop/NHS V1.06 WORKING"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-generated-files.hmap" "-I/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-own-target-headers.hmap" "-I/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-all-target-headers.hmap" -iquote "/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-project-headers.hmap" "-F/Users/User/Desktop/NHS V1.06 WORKING/build/Debug-iphonesimulator" "-I/Users/User/Desktop/NHS V1.06 WORKING/build/Debug-iphonesimulator/include" "-I/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/DerivedSources/i386" "-I/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/DerivedSources" -include /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushViewControllerAnimated_Prefix-dxygnhnarhnfplcrrqozrlrotlac/PushViewControllerAnimated_Prefix.pch -c "/Users/User/Desktop/NHS V1.06 WORKING/viewEmergenciesMapDetailsView.m" -o "/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/viewEmergenciesMapDetailsView.o"0#
 
 CCompileC build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/viewEmergenciesMapDetailsView.o "/Users/User/Desktop/NHS V1.07 WORKING/viewEmergenciesMapDetailsView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s316111306.863542
-e316111307.420919
+s317847693.173572
+e317847695.069534
 r1
 xCompileC
 xbuild/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/viewEmergenciesMapDetailsView.o
@@ -14021,10 +14021,10 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-o/Users/User/Desktop/NHS V1.07 WORKING/viewEmergenciesMapDetailsView.m:127: warning: incomplete implementation of class 'viewEmergenciesMapDetailsView'
-o/Users/User/Desktop/NHS V1.07 WORKING/viewEmergenciesMapDetailsView.m:127: warning: method definition for '-makeAppointmentButton' not found
-o/Users/User/Desktop/NHS V1.07 WORKING/viewEmergenciesMapDetailsView.m:127: warning: method definition for '-dataFilePathDental' not found
-lSLF07#2@77"Compile /Users/User/Desktop/NHS V1.07 WORKING/viewEmergenciesMapDetailsView.m316111306#316111307#0(430"/Users/User/Desktop/NHS V1.07 WORKING/viewEmergenciesMapDetailsView.m:127: warning: incomplete implementation of class 'viewEmergenciesMapDetailsView'/Users/User/Desktop/NHS V1.07 WORKING/viewEmergenciesMapDetailsView.m:127: warning: method definition for '-makeAppointmentButton' not found/Users/User/Desktop/NHS V1.07 WORKING/viewEmergenciesMapDetailsView.m:127: warning: method definition for '-dataFilePathDental' not found3(22@66"Incomplete implementation of class 'viewEmergenciesMapDetailsView'316111307#0#151#0(6@69"/Users/User/Desktop/NHS V1.07 WORKING/viewEmergenciesMapDetailsView.m313956079#127#0#127#0#38"incomplete implementation of class '*'0(22@56"Method definition for '-makeAppointmentButton' not found316111307#151#141#0(6@69"/Users/User/Desktop/NHS V1.07 WORKING/viewEmergenciesMapDetailsView.m313956079#127#0#127#0#35"method definition for '*' not found0(22@53"Method definition for '-dataFilePathDental' not found316111307#292#138#0(6@69"/Users/User/Desktop/NHS V1.07 WORKING/viewEmergenciesMapDetailsView.m313956079#127#0#127#0#35"method definition for '*' not found0(0#0#69"/Users/User/Desktop/NHS V1.07 WORKING/viewEmergenciesMapDetailsView.m8612934912#2355"    cd "/Users/User/Desktop/NHS V1.07 WORKING"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-generated-files.hmap" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-own-target-headers.hmap" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-all-target-headers.hmap" -iquote "/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-project-headers.hmap" "-F/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/include" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/DerivedSources/i386" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/DerivedSources" -include /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushViewControllerAnimated_Prefix-cjitatbkxdfjnkbivfqmdocozpmm/PushViewControllerAnimated_Prefix.pch -c "/Users/User/Desktop/NHS V1.07 WORKING/viewEmergenciesMapDetailsView.m" -o "/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/viewEmergenciesMapDetailsView.o"0#
+o/Users/User/Desktop/NHS V1.07 WORKING/viewEmergenciesMapDetailsView.m:114: warning: incomplete implementation of class 'viewEmergenciesMapDetailsView'
+o/Users/User/Desktop/NHS V1.07 WORKING/viewEmergenciesMapDetailsView.m:114: warning: method definition for '-makeAppointmentButton' not found
+o/Users/User/Desktop/NHS V1.07 WORKING/viewEmergenciesMapDetailsView.m:114: warning: method definition for '-dataFilePathDental' not found
+lSLF07#2@77"Compile /Users/User/Desktop/NHS V1.07 WORKING/viewEmergenciesMapDetailsView.m317847693#317847695#0(430"/Users/User/Desktop/NHS V1.07 WORKING/viewEmergenciesMapDetailsView.m:114: warning: incomplete implementation of class 'viewEmergenciesMapDetailsView'/Users/User/Desktop/NHS V1.07 WORKING/viewEmergenciesMapDetailsView.m:114: warning: method definition for '-makeAppointmentButton' not found/Users/User/Desktop/NHS V1.07 WORKING/viewEmergenciesMapDetailsView.m:114: warning: method definition for '-dataFilePathDental' not found3(22@66"Incomplete implementation of class 'viewEmergenciesMapDetailsView'317847694#0#151#0(6@69"/Users/User/Desktop/NHS V1.07 WORKING/viewEmergenciesMapDetailsView.m317847679#114#0#114#0#38"incomplete implementation of class '*'0(22@56"Method definition for '-makeAppointmentButton' not found317847694#151#141#0(6@69"/Users/User/Desktop/NHS V1.07 WORKING/viewEmergenciesMapDetailsView.m317847679#114#0#114#0#35"method definition for '*' not found0(22@53"Method definition for '-dataFilePathDental' not found317847694#292#138#0(6@69"/Users/User/Desktop/NHS V1.07 WORKING/viewEmergenciesMapDetailsView.m317847679#114#0#114#0#35"method definition for '*' not found0(0#0#69"/Users/User/Desktop/NHS V1.07 WORKING/viewEmergenciesMapDetailsView.m8620834752#2355"    cd "/Users/User/Desktop/NHS V1.07 WORKING"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-generated-files.hmap" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-own-target-headers.hmap" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-all-target-headers.hmap" -iquote "/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-project-headers.hmap" "-F/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/include" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/DerivedSources/i386" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/DerivedSources" -include /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushViewControllerAnimated_Prefix-cjitatbkxdfjnkbivfqmdocozpmm/PushViewControllerAnimated_Prefix.pch -c "/Users/User/Desktop/NHS V1.07 WORKING/viewEmergenciesMapDetailsView.m" -o "/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/viewEmergenciesMapDetailsView.o"0#
 
 CCompileC build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/viewEmergenciesMapDetailsView.o "/Users/andrewfarmer/Desktop/NHS BRISTOL /NHS V1.06 WORKING/viewEmergenciesMapDetailsView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s303818822.699418
@@ -14124,8 +14124,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@68"Compile /Users/User/Desktop/NHS V1.06 WORKING/viewWalkinMapDetails.m314132850#314132851#0(0"0(0#0#60"/Users/User/Desktop/NHS V1.06 WORKING/viewWalkinMapDetails.m8621201696#2337"    cd "/Users/User/Desktop/NHS V1.06 WORKING"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-generated-files.hmap" "-I/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-own-target-headers.hmap" "-I/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-all-target-headers.hmap" -iquote "/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-project-headers.hmap" "-F/Users/User/Desktop/NHS V1.06 WORKING/build/Debug-iphonesimulator" "-I/Users/User/Desktop/NHS V1.06 WORKING/build/Debug-iphonesimulator/include" "-I/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/DerivedSources/i386" "-I/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/DerivedSources" -include /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushViewControllerAnimated_Prefix-dxygnhnarhnfplcrrqozrlrotlac/PushViewControllerAnimated_Prefix.pch -c "/Users/User/Desktop/NHS V1.06 WORKING/viewWalkinMapDetails.m" -o "/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/viewWalkinMapDetails.o"0#
 
 CCompileC build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/viewWalkinMapDetails.o "/Users/User/Desktop/NHS V1.07 WORKING/viewWalkinMapDetails.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s316111307.421116
-e316111307.941422
+s317847695.069740
+e317847697.031035
 r1
 xCompileC
 xbuild/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/viewWalkinMapDetails.o
@@ -14134,7 +14134,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@68"Compile /Users/User/Desktop/NHS V1.07 WORKING/viewWalkinMapDetails.m316111307#316111307#0(0"0(0#0#60"/Users/User/Desktop/NHS V1.07 WORKING/viewWalkinMapDetails.m8595219808#2337"    cd "/Users/User/Desktop/NHS V1.07 WORKING"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-generated-files.hmap" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-own-target-headers.hmap" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-all-target-headers.hmap" -iquote "/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-project-headers.hmap" "-F/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/include" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/DerivedSources/i386" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/DerivedSources" -include /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushViewControllerAnimated_Prefix-cjitatbkxdfjnkbivfqmdocozpmm/PushViewControllerAnimated_Prefix.pch -c "/Users/User/Desktop/NHS V1.07 WORKING/viewWalkinMapDetails.m" -o "/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/viewWalkinMapDetails.o"0#
+lSLF07#2@68"Compile /Users/User/Desktop/NHS V1.07 WORKING/viewWalkinMapDetails.m317847695#317847697#0(0"0(0#0#60"/Users/User/Desktop/NHS V1.07 WORKING/viewWalkinMapDetails.m8612453344#2337"    cd "/Users/User/Desktop/NHS V1.07 WORKING"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-generated-files.hmap" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-own-target-headers.hmap" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-all-target-headers.hmap" -iquote "/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/PushViewControllerAnimated-project-headers.hmap" "-F/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/include" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/DerivedSources/i386" "-I/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/DerivedSources" -include /var/folders/rJ/rJuauw91FjWlRBVh293Sek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushViewControllerAnimated_Prefix-cjitatbkxdfjnkbivfqmdocozpmm/PushViewControllerAnimated_Prefix.pch -c "/Users/User/Desktop/NHS V1.07 WORKING/viewWalkinMapDetails.m" -o "/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/viewWalkinMapDetails.o"0#
 
 CCompileC build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/viewWalkinMapDetails.o "/Users/andrewfarmer/Desktop/NHS BRISTOL /NHS V1.06 WORKING/viewWalkinMapDetails.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s303818822.742816
@@ -14530,12 +14530,12 @@ CCompileXIB "/Users/User/Desktop/NHS V1.07 WORKING/GPMap.xib"
 r0
 
 CCompileXIB "/Users/User/Desktop/NHS V1.07 WORKING/GPMapDetailsView.xib"
-s316555450.427537
-e316555451.868543
+s317847679.672499
+e317847681.447707
 r1
 xCompileXIB
 x/Users/User/Desktop/NHS V1.07 WORKING/GPMapDetailsView.xib
-lSLF07#2@31"CompileXIB GPMapDetailsView.xib316555450#316555451#0(0"0(0#0#58"/Users/User/Desktop/NHS V1.07 WORKING/GPMapDetailsView.xib8619204576#604"    cd "/Users/User/Desktop/NHS V1.07 WORKING"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/GPMapDetailsView.nib" "/Users/User/Desktop/NHS V1.07 WORKING/GPMapDetailsView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+lSLF07#2@31"CompileXIB GPMapDetailsView.xib317847679#317847681#0(0"0(0#0#58"/Users/User/Desktop/NHS V1.07 WORKING/GPMapDetailsView.xib8619060480#604"    cd "/Users/User/Desktop/NHS V1.07 WORKING"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/GPMapDetailsView.nib" "/Users/User/Desktop/NHS V1.07 WORKING/GPMapDetailsView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
 
 CCompileXIB "/Users/User/Desktop/NHS V1.07 WORKING/MainWindow.xib"
 r0
@@ -14547,20 +14547,20 @@ CCompileXIB "/Users/User/Desktop/NHS V1.07 WORKING/PharmacyMAP.xib"
 r0
 
 CCompileXIB "/Users/User/Desktop/NHS V1.07 WORKING/PharmacyMAPDetailsView.xib"
-s316556034.872529
-e316556037.369346
+s317847681.448803
+e317847682.522681
 r1
 xCompileXIB
 x/Users/User/Desktop/NHS V1.07 WORKING/PharmacyMAPDetailsView.xib
-lSLF07#2@37"CompileXIB PharmacyMAPDetailsView.xib316556034#316556037#0(0"0(0#0#64"/Users/User/Desktop/NHS V1.07 WORKING/PharmacyMAPDetailsView.xib8602194560#616"    cd "/Users/User/Desktop/NHS V1.07 WORKING"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/PharmacyMAPDetailsView.nib" "/Users/User/Desktop/NHS V1.07 WORKING/PharmacyMAPDetailsView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+lSLF07#2@37"CompileXIB PharmacyMAPDetailsView.xib317847681#317847682#0(0"0(0#0#64"/Users/User/Desktop/NHS V1.07 WORKING/PharmacyMAPDetailsView.xib8621575680#616"    cd "/Users/User/Desktop/NHS V1.07 WORKING"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/PharmacyMAPDetailsView.nib" "/Users/User/Desktop/NHS V1.07 WORKING/PharmacyMAPDetailsView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
 
 CCompileXIB "/Users/User/Desktop/NHS V1.07 WORKING/SexHealthDetailsView.xib"
-s316551856.400880
-e316551857.792156
+s317847686.090205
+e317847687.177091
 r1
 xCompileXIB
 x/Users/User/Desktop/NHS V1.07 WORKING/SexHealthDetailsView.xib
-lSLF07#2@35"CompileXIB SexHealthDetailsView.xib316551856#316551857#0(0"0(0#0#62"/Users/User/Desktop/NHS V1.07 WORKING/SexHealthDetailsView.xib8615731872#612"    cd "/Users/User/Desktop/NHS V1.07 WORKING"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/SexHealthDetailsView.nib" "/Users/User/Desktop/NHS V1.07 WORKING/SexHealthDetailsView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+lSLF07#2@35"CompileXIB SexHealthDetailsView.xib317847686#317847687#0(0"0(0#0#62"/Users/User/Desktop/NHS V1.07 WORKING/SexHealthDetailsView.xib8620786720#612"    cd "/Users/User/Desktop/NHS V1.07 WORKING"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/SexHealthDetailsView.nib" "/Users/User/Desktop/NHS V1.07 WORKING/SexHealthDetailsView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
 
 CCompileXIB "/Users/User/Desktop/NHS V1.07 WORKING/SexHealthMap.xib"
 r0
@@ -14613,12 +14613,12 @@ CCompileXIB "/Users/User/Desktop/NHS V1.07 WORKING/dentalMAP.xib"
 r0
 
 CCompileXIB "/Users/User/Desktop/NHS V1.07 WORKING/dentalMAPDetailsView.xib"
-s316555762.291890
-e316555763.567997
+s317847682.522796
+e317847683.856918
 r1
 xCompileXIB
 x/Users/User/Desktop/NHS V1.07 WORKING/dentalMAPDetailsView.xib
-lSLF07#2@35"CompileXIB dentalMAPDetailsView.xib316555762#316555763#0(0"0(0#0#62"/Users/User/Desktop/NHS V1.07 WORKING/dentalMAPDetailsView.xib8619488352#612"    cd "/Users/User/Desktop/NHS V1.07 WORKING"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/dentalMAPDetailsView.nib" "/Users/User/Desktop/NHS V1.07 WORKING/dentalMAPDetailsView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+lSLF07#2@35"CompileXIB dentalMAPDetailsView.xib317847682#317847683#0(0"0(0#0#62"/Users/User/Desktop/NHS V1.07 WORKING/dentalMAPDetailsView.xib8621387264#612"    cd "/Users/User/Desktop/NHS V1.07 WORKING"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/dentalMAPDetailsView.nib" "/Users/User/Desktop/NHS V1.07 WORKING/dentalMAPDetailsView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
 
 CCompileXIB "/Users/User/Desktop/NHS V1.07 WORKING/donorViewController.xib"
 r0
@@ -14654,12 +14654,13 @@ CCompileXIB "/Users/User/Desktop/NHS V1.07 WORKING/hospitalMAP.xib"
 r0
 
 CCompileXIB "/Users/User/Desktop/NHS V1.07 WORKING/hospitalMAPDetail.xib"
-s316554938.938772
-e316554940.480615
+s317846849.279139
+e317846850.713145
 r1
 xCompileXIB
 x/Users/User/Desktop/NHS V1.07 WORKING/hospitalMAPDetail.xib
-lSLF07#2@32"CompileXIB hospitalMAPDetail.xib316554938#316554940#0(0"0(0#0#59"/Users/User/Desktop/NHS V1.07 WORKING/hospitalMAPDetail.xib8624254368#606"    cd "/Users/User/Desktop/NHS V1.07 WORKING"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/hospitalMAPDetail.nib" "/Users/User/Desktop/NHS V1.07 WORKING/hospitalMAPDetail.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@32"CompileXIB hospitalMAPDetail.xib317846849#317846850#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#59"/Users/User/Desktop/NHS V1.07 WORKING/hospitalMAPDetail.xib9007435481088046#606"    cd "/Users/User/Desktop/NHS V1.07 WORKING"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/hospitalMAPDetail.nib" "/Users/User/Desktop/NHS V1.07 WORKING/hospitalMAPDetail.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
 
 CCompileXIB "/Users/User/Desktop/NHS V1.07 WORKING/myNotesViewController.xib"
 r0
@@ -14668,23 +14669,23 @@ CCompileXIB "/Users/User/Desktop/NHS V1.07 WORKING/personalViewSubMenu.xib"
 r0
 
 CCompileXIB "/Users/User/Desktop/NHS V1.07 WORKING/viewEmergenciesMapDetailsView.xib"
-s316553320.337353
-e316553321.673047
+s317847683.857108
+e317847684.928042
 r1
 xCompileXIB
 x/Users/User/Desktop/NHS V1.07 WORKING/viewEmergenciesMapDetailsView.xib
-lSLF07#2@44"CompileXIB viewEmergenciesMapDetailsView.xib316553320#316553321#0(0"0(0#0#71"/Users/User/Desktop/NHS V1.07 WORKING/viewEmergenciesMapDetailsView.xib8602143648#630"    cd "/Users/User/Desktop/NHS V1.07 WORKING"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/viewEmergenciesMapDetailsView.nib" "/Users/User/Desktop/NHS V1.07 WORKING/viewEmergenciesMapDetailsView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+lSLF07#2@44"CompileXIB viewEmergenciesMapDetailsView.xib317847683#317847684#0(0"0(0#0#71"/Users/User/Desktop/NHS V1.07 WORKING/viewEmergenciesMapDetailsView.xib8621310176#630"    cd "/Users/User/Desktop/NHS V1.07 WORKING"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/viewEmergenciesMapDetailsView.nib" "/Users/User/Desktop/NHS V1.07 WORKING/viewEmergenciesMapDetailsView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
 
 CCompileXIB "/Users/User/Desktop/NHS V1.07 WORKING/viewTest.xib"
 r0
 
 CCompileXIB "/Users/User/Desktop/NHS V1.07 WORKING/viewWalkinMapDetails.xib"
-s316554305.515202
-e316554307.011890
+s317847684.928122
+e317847686.089131
 r1
 xCompileXIB
 x/Users/User/Desktop/NHS V1.07 WORKING/viewWalkinMapDetails.xib
-lSLF07#2@35"CompileXIB viewWalkinMapDetails.xib316554305#316554307#0(0"0(0#0#62"/Users/User/Desktop/NHS V1.07 WORKING/viewWalkinMapDetails.xib8619736704#612"    cd "/Users/User/Desktop/NHS V1.07 WORKING"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/viewWalkinMapDetails.nib" "/Users/User/Desktop/NHS V1.07 WORKING/viewWalkinMapDetails.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+lSLF07#2@35"CompileXIB viewWalkinMapDetails.xib317847684#317847686#0(0"0(0#0#62"/Users/User/Desktop/NHS V1.07 WORKING/viewWalkinMapDetails.xib8620666592#612"    cd "/Users/User/Desktop/NHS V1.07 WORKING"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/viewWalkinMapDetails.nib" "/Users/User/Desktop/NHS V1.07 WORKING/viewWalkinMapDetails.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
 
 CCompileXIB "/Users/andrewfarmer/Desktop/NHS BRISTOL /NHS V1.06 WORKING/ALARMView.xib"
 s303818799.228571
@@ -16511,13 +16512,13 @@ x/Users/User/Desktop/NHS V1.06 WORKING/build/Debug-iphonesimulator/PushViewContr
 lSLF07#2@166"GenerateDSYMFile build/Debug-iphonesimulator/PushViewControllerAnimated.app.dSYM build/Debug-iphonesimulator/PushViewControllerAnimated.app/PushViewControllerAnimated314815419#314815419#0(0"0(0#0#123"/Users/User/Desktop/NHS V1.06 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/PushViewControllerAnimated8605577312#443"    cd "/Users/User/Desktop/NHS V1.06 WORKING"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/User/Desktop/NHS V1.06 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/PushViewControllerAnimated" -o "/Users/User/Desktop/NHS V1.06 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app.dSYM"0#
 
 CGenerateDSYMFile "/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app.dSYM" "/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/PushViewControllerAnimated"
-s317835290.747850
-e317835291.556648
+s317847698.355288
+e317847698.592195
 r1
 xGenerateDSYMFile
 x/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app.dSYM
 x/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/PushViewControllerAnimated
-lSLF07#2@166"GenerateDSYMFile build/Debug-iphonesimulator/PushViewControllerAnimated.app.dSYM build/Debug-iphonesimulator/PushViewControllerAnimated.app/PushViewControllerAnimated317835290#317835291#0(0"0(0#0#123"/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/PushViewControllerAnimated8611602944#443"    cd "/Users/User/Desktop/NHS V1.07 WORKING"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/PushViewControllerAnimated" -o "/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app.dSYM"0#
+lSLF07#2@166"GenerateDSYMFile build/Debug-iphonesimulator/PushViewControllerAnimated.app.dSYM build/Debug-iphonesimulator/PushViewControllerAnimated.app/PushViewControllerAnimated317847698#317847698#0(0"0(0#0#123"/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/PushViewControllerAnimated8597993184#443"    cd "/Users/User/Desktop/NHS V1.07 WORKING"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/PushViewControllerAnimated" -o "/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app.dSYM"0#
 
 CGenerateDSYMFile "/Users/andrewfarmer/Desktop/NHS BRISTOL /NHS V1.06 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app.dSYM" "/Users/andrewfarmer/Desktop/NHS BRISTOL /NHS V1.06 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/PushViewControllerAnimated"
 s303913794.649975
@@ -16548,14 +16549,14 @@ xi386
 lSLF07#2@128"Link /Users/User/Desktop/NHS V1.06 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/PushViewControllerAnimated314815418#314815419#0(0"0(0#0#0"8624038624#1138"    cd "/Users/User/Desktop/NHS V1.06 WORKING"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk "-L/Users/User/Desktop/NHS V1.06 WORKING/build/Debug-iphonesimulator" "-F/Users/User/Desktop/NHS V1.06 WORKING/build/Debug-iphonesimulator" -filelist "/Users/User/Desktop/NHS V1.06 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/PushViewControllerAnimated.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -framework AVFoundation -framework AudioToolbox -framework AddressBook -framework AddressBookUI -framework CoreLocation -o "/Users/User/Desktop/NHS V1.06 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/PushViewControllerAnimated"0#
 
 CLd "/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/PushViewControllerAnimated" normal i386
-s317835288.377986
-e317835290.747579
+s317847698.092681
+e317847698.355197
 r1
 xLd
 x/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/PushViewControllerAnimated
 xnormal
 xi386
-lSLF07#2@128"Link /Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/PushViewControllerAnimated317835288#317835290#0(0"0(0#0#0"8610498784#1138"    cd "/Users/User/Desktop/NHS V1.07 WORKING"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk "-L/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator" "-F/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator" -filelist "/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/PushViewControllerAnimated.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -framework AVFoundation -framework AudioToolbox -framework AddressBook -framework AddressBookUI -framework CoreLocation -o "/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/PushViewControllerAnimated"0#
+lSLF07#2@128"Link /Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/PushViewControllerAnimated317847698#317847698#0(0"0(0#0#0"8620860640#1138"    cd "/Users/User/Desktop/NHS V1.07 WORKING"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk "-L/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator" "-F/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator" -filelist "/Users/User/Desktop/NHS V1.07 WORKING/build/PushViewControllerAnimated.build/Debug-iphonesimulator/PushViewControllerAnimated.build/Objects-normal/i386/PushViewControllerAnimated.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -framework AVFoundation -framework AudioToolbox -framework AddressBook -framework AddressBookUI -framework CoreLocation -o "/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/PushViewControllerAnimated"0#
 
 CLd "/Users/andrewfarmer/Desktop/NHS BRISTOL /NHS V1.06 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app/PushViewControllerAnimated" normal i386
 s303913793.554621
@@ -16699,12 +16700,12 @@ x/Users/User/Desktop/NHS V1.06 WORKING/build/Debug-iphonesimulator/PushViewContr
 lSLF07#2@102"Touch /Users/User/Desktop/NHS V1.06 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app314815419#314815419#0(0"0(0#0#0"8623138240#299"    cd "/Users/User/Desktop/NHS V1.06 WORKING"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/User/Desktop/NHS V1.06 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app"0#
 
 CTouch "/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app"
-s317841299.025031
-e317841299.069233
+s317847698.592387
+e317847698.603471
 r1
 xTouch
 x/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app
-lSLF07#2@102"Touch /Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app317841299#317841299#0(0"0(0#0#0"8602615744#299"    cd "/Users/User/Desktop/NHS V1.07 WORKING"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app"0#
+lSLF07#2@102"Touch /Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app317847698#317847698#0(0"0(0#0#0"8620829504#299"    cd "/Users/User/Desktop/NHS V1.07 WORKING"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/User/Desktop/NHS V1.07 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app"0#
 
 CTouch "/Users/andrewfarmer/Desktop/NHS BRISTOL /NHS V1.06 WORKING/build/Debug-iphonesimulator/PushViewControllerAnimated.app"
 s303913795.040279
