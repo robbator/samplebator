@@ -61,14 +61,23 @@
 	NSString * tempoString3 = [array objectAtIndex:6];
 	NSString * tempoString4 = [array objectAtIndex:7];
 	
-	labelAddress1.text = [NSString stringWithFormat:@"%@, %@, %@, %@", tempoString1, tempoString2, tempoString4, tempoString3] ;
-	
+	if (tempoString2 || ![tempoString2 isEqual:@""]) {
+		tempoString2 = [NSString stringWithFormat:@"%@,", tempoString2];
+	}
+	if (tempoString3 || ![tempoString3 isEqual:@""]) {
+		tempoString3 = [NSString stringWithFormat:@"%@,", tempoString3];
+	}
+	if ([tempoString2 isEqual:tempoString3]) {
+		labelAddress1.text = [NSString stringWithFormat:@"%@, %@ %@", tempoString1, tempoString2, tempoString4];
+	} else {
+		labelAddress1.text = [NSString stringWithFormat:@"%@, %@ %@ %@", tempoString1, tempoString2, tempoString3, tempoString4];
+	}
 	//informacion = [[NSString alloc] init] ;
 	//informacion	= [NSString stringWithFormat:@"Name of the Emergency: %@. Ubication: %@, %@",labelNombre.text, labelAddress1.text, labelAddress2.text ] ;
 	
 	//NSLog(@"%@", informacion) ;
 	
-	labelPhone.text = [array objectAtIndex:9] ; 	
+	labelPhone.text = [array objectAtIndex:8] ; 	
 	[labelPhone release] ;
 	
 }

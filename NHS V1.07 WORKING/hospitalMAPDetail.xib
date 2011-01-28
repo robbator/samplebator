@@ -113,7 +113,7 @@
 					<object class="IBUILabel" id="20266219">
 						<reference key="NSNextResponder" ref="191373211"/>
 						<int key="NSvFlags">292</int>
-						<string key="NSFrame">{{40, 198}, {170, 22}}</string>
+						<string key="NSFrame">{{40, 189}, {170, 22}}</string>
 						<reference key="NSSuperview" ref="191373211"/>
 						<reference key="IBUIBackgroundColor" ref="1065784995"/>
 						<bool key="IBUIOpaque">NO</bool>
@@ -134,7 +134,7 @@
 					<object class="IBUILabel" id="835217486">
 						<reference key="NSNextResponder" ref="191373211"/>
 						<int key="NSvFlags">292</int>
-						<string key="NSFrame">{{40, 220}, {247, 58}}</string>
+						<string key="NSFrame">{{40, 213}, {247, 65}}</string>
 						<reference key="NSSuperview" ref="191373211"/>
 						<reference key="IBUIBackgroundColor" ref="1065784995"/>
 						<bool key="IBUIOpaque">NO</bool>
@@ -146,8 +146,8 @@
 						<reference key="IBUITextColor" ref="111245590"/>
 						<nil key="IBUIHighlightedColor"/>
 						<int key="IBUIBaselineAdjustment">1</int>
-						<float key="IBUIMinimumFontSize">10</float>
-						<int key="IBUINumberOfLines">2</int>
+						<float key="IBUIMinimumFontSize">7</float>
+						<int key="IBUINumberOfLines">3</int>
 					</object>
 					<object class="IBUILabel" id="412722629">
 						<reference key="NSNextResponder" ref="191373211"/>

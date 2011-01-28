@@ -146,8 +146,8 @@
 						<reference key="IBUITextColor" ref="742349581"/>
 						<nil key="IBUIHighlightedColor"/>
 						<int key="IBUIBaselineAdjustment">1</int>
-						<float key="IBUIMinimumFontSize">10</float>
-						<int key="IBUINumberOfLines">2</int>
+						<float key="IBUIMinimumFontSize">7</float>
+						<int key="IBUINumberOfLines">3</int>
 					</object>
 					<object class="IBUILabel" id="1069870256">
 						<reference key="NSNextResponder" ref="191373211"/>

@@ -239,9 +239,9 @@
 	managerName  = [dict objectForKey:@"name" ]       ;
 	namePartner  = [dict objectForKey:@"name" ]       ;
 	addressA     = [dict objectForKey:@"addressLarge"]     ;
-	addressB     = [dict objectForKey:@"district"]     ;
-	addressC     = [dict objectForKey:@"postcode"]     ;
-	addressD     = [dict objectForKey:@"city"]     ;
+	addressB     = [dict objectForKey:@"city"]     ;
+	addressC     = [dict objectForKey:@"district"]     ;
+	addressD     = [dict objectForKey:@"postcode"]     ;
 	phone        = [dict objectForKey:@"telephone"]       ;
 	managerMail	 = [dict objectForKey:@"name" ]       ;
 	postcode	 = [dict objectForKey:@"postcode"]    ;
@@ -258,10 +258,9 @@
 	[array replaceObjectAtIndex:3 withObject: (@"%@",managerMail) ] ;
 	[array replaceObjectAtIndex:4 withObject: (@"%@",addressA ) ] ;
 	[array replaceObjectAtIndex:5 withObject: (@"%@",addressB ) ] ;
-	[array replaceObjectAtIndex:6 withObject: (@"%@",addressB ) ] ;
-	[array replaceObjectAtIndex:7 withObject: (@"%@",addressC ) ] ;
-	[array replaceObjectAtIndex:8 withObject: (@"%@",addressD ) ] ;	
-	[array replaceObjectAtIndex:9 withObject: (@"%@",phone ) ] ;		
+	[array replaceObjectAtIndex:6 withObject: (@"%@",addressC ) ] ;
+	[array replaceObjectAtIndex:7 withObject: (@"%@",addressD ) ] ;	
+	[array replaceObjectAtIndex:8 withObject: (@"%@",phone ) ] ;		
 	
 	[array writeToFile:[ self dataFilePathWalkin ] atomically:YES ] ;
 	[array release] ;

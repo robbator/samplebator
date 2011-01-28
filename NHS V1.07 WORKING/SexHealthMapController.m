@@ -254,10 +254,10 @@
 	namefinal    = [dict objectForKey:@"name" ];
 	managerName  = [dict objectForKey:@"name" ];
 	namePartner  = [dict objectForKey:@"name" ];
-	addressA     = [dict objectForKey:@"addressLarge"];
-	addressB     = [dict objectForKey:@"district"];
-	addressC     = [dict objectForKey:@"postcode"];
-	addressD     = [dict objectForKey:@"city"];
+	addressA     = [dict objectForKey:@"addressLarge"]     ;
+	addressB     = [dict objectForKey:@"city"]     ;
+	addressC     = [dict objectForKey:@"district"]     ;
+	addressD     = [dict objectForKey:@"postcode"]     ;
 	phone        = [dict objectForKey:@"telephone"];
 	managerMail	 = [dict objectForKey:@"name" ];
 	postcode	 = [dict objectForKey:@"postcode"];
